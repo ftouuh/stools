@@ -16,7 +16,7 @@ To get started with STools Hub, follow these steps:
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/stoolshub/stools.git
+    git clone https://github.com/ftouuh/stools.git
     ```
 
 2. Navigate to the project directory:
