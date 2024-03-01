@@ -21,7 +21,7 @@ To get started with STools Hub, follow these steps:
 
 2. Navigate to the project directory:
     ```bash
-    cd stoolshub
+    cd stools
     ```
 
 3. Install dependencies:
