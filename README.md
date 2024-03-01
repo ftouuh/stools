@@ -1,6 +1,6 @@
 # 🛠️ STools Hub
 
-STools Hub is a collaborative project developed by Jihad Bourbab, Rida Elklie, and Zayd Ftouh. This project aims to simplify various tasks by providing innovative tools with user-friendly interfaces.
+STools Hub is a collaborative project developed by Zayd Ftouh, Rida Elklie, and Jihad Bourbab. This project aims to simplify various tasks by providing innovative tools with user-friendly interfaces.
 
 ## 🚀 Features
 
@@ -16,7 +16,7 @@ To get started with STools Hub, follow these steps:
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/stoolshub/stoolshub.git
+    git clone https://github.com/stoolshub/stools.git
     ```
 
 2. Navigate to the project directory:
@@ -56,6 +56,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ### 📖 Learn More
 
-You can learn more about Create React App in the [documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+You can learn more about STools Hub by visiting our [website](https://stools-hub.netlify.app/).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
